@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2026-01-22T09:42:07.153Z","userMetadata":{},"modelName":"my-pose-model","labels":["อีไม่สวย","อีสวย"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
